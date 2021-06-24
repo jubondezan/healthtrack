@@ -1,0 +1,25 @@
+.navbar-brand {
+    margin-left: 16px;
+}
+
+.bg-chocolate {
+    background-color: rgb(182, 123, 81) !important;
+    color:black !important;
+}
+
+#footer-principal {
+    background-color: rgb(182, 123, 81) !important;
+    color:black !important;
+}
+
+.footer-text {
+    color: black;
+}
+
+.row-custom-navbar {
+    width: 100%;
+}
+
+.nav-link {
+    color: black;
+}
